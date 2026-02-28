@@ -1,2 +1,5 @@
 # BDMI
-Some notes about course
+
+## Some notes about course
+
+
